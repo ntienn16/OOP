@@ -1,0 +1,14 @@
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\bin\Debug\net8.0\Overriding.exe
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\bin\Debug\net8.0\Overriding.deps.json
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\bin\Debug\net8.0\Overriding.runtimeconfig.json
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\bin\Debug\net8.0\Overriding.dll
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\bin\Debug\net8.0\Overriding.pdb
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\obj\Debug\net8.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfoInputs.cache
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfo.cs
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\obj\Debug\net8.0\Overriding.csproj.CoreCompileInputs.cache
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\obj\Debug\net8.0\Overriding.dll
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\obj\Debug\net8.0\refint\Overriding.dll
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\obj\Debug\net8.0\Overriding.pdb
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\obj\Debug\net8.0\Overriding.genruntimeconfig.cache
+D:\TIEN\MIS\OOP VS2022\Tuan8\Overriding\obj\Debug\net8.0\ref\Overriding.dll
