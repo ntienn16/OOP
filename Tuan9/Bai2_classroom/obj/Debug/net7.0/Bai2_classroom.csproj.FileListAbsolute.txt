@@ -1,0 +1,14 @@
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\bin\Debug\net7.0\Bai2_classroom.exe
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\bin\Debug\net7.0\Bai2_classroom.deps.json
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\bin\Debug\net7.0\Bai2_classroom.runtimeconfig.json
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\bin\Debug\net7.0\Bai2_classroom.dll
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\bin\Debug\net7.0\Bai2_classroom.pdb
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\obj\Debug\net7.0\Bai2_classroom.GeneratedMSBuildEditorConfig.editorconfig
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\obj\Debug\net7.0\Bai2_classroom.AssemblyInfoInputs.cache
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\obj\Debug\net7.0\Bai2_classroom.AssemblyInfo.cs
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\obj\Debug\net7.0\Bai2_classroom.csproj.CoreCompileInputs.cache
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\obj\Debug\net7.0\Bai2_classroom.dll
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\obj\Debug\net7.0\refint\Bai2_classroom.dll
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\obj\Debug\net7.0\Bai2_classroom.pdb
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\obj\Debug\net7.0\Bai2_classroom.genruntimeconfig.cache
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai2_classroom\obj\Debug\net7.0\ref\Bai2_classroom.dll
