@@ -1,0 +1,14 @@
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\bin\Debug\net7.0\Bai1_slide.exe
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\bin\Debug\net7.0\Bai1_slide.deps.json
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\bin\Debug\net7.0\Bai1_slide.runtimeconfig.json
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\bin\Debug\net7.0\Bai1_slide.dll
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\bin\Debug\net7.0\Bai1_slide.pdb
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\obj\Debug\net7.0\Bai1_slide.GeneratedMSBuildEditorConfig.editorconfig
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\obj\Debug\net7.0\Bai1_slide.AssemblyInfoInputs.cache
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\obj\Debug\net7.0\Bai1_slide.AssemblyInfo.cs
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\obj\Debug\net7.0\Bai1_slide.csproj.CoreCompileInputs.cache
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\obj\Debug\net7.0\Bai1_slide.dll
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\obj\Debug\net7.0\refint\Bai1_slide.dll
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\obj\Debug\net7.0\Bai1_slide.pdb
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\obj\Debug\net7.0\Bai1_slide.genruntimeconfig.cache
+D:\TIEN\MIS\OOP VS2022\Tuan9\Bai1_slide\obj\Debug\net7.0\ref\Bai1_slide.dll
