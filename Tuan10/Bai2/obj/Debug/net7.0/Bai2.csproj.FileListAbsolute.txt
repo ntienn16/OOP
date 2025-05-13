@@ -1,0 +1,14 @@
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\bin\Debug\net7.0\Bai2.exe
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\bin\Debug\net7.0\Bai2.deps.json
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\bin\Debug\net7.0\Bai2.runtimeconfig.json
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\bin\Debug\net7.0\Bai2.dll
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\bin\Debug\net7.0\Bai2.pdb
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\obj\Debug\net7.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\obj\Debug\net7.0\Bai2.AssemblyInfoInputs.cache
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\obj\Debug\net7.0\Bai2.AssemblyInfo.cs
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\obj\Debug\net7.0\Bai2.csproj.CoreCompileInputs.cache
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\obj\Debug\net7.0\Bai2.dll
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\obj\Debug\net7.0\refint\Bai2.dll
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\obj\Debug\net7.0\Bai2.pdb
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\obj\Debug\net7.0\Bai2.genruntimeconfig.cache
+D:\TIEN\MIS\OOP VS2022\Tuan10\Bai2\obj\Debug\net7.0\ref\Bai2.dll
